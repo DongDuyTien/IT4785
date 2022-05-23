@@ -3,9 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/AndroidHomework/IT4785/TwoActivities/app/src/main/res/layout/activity_main.xml" value="0.25052083333333336" />
-        <entry key="..\:/AndroidHomework/TwoActivities/app/src/main/res/layout/activity_main.xml" value="0.17708333333333334" />
-        <entry key="..\:/AndroidHomework/TwoActivities/app/src/main/res/layout/activity_second.xml" value="0.17708333333333334" />
+        <entry key="..\:/AndroidHomework/DroidCafe/app/src/main/res/layout/activity_main.xml" value="0.17708333333333334" />
+        <entry key="..\:/AndroidHomework/DroidCafe/app/src/main/res/layout/activity_order.xml" value="0.24456521739130435" />
       </map>
     </option>
   </component>
